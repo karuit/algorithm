@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: test.java.algorithm.testing.TesterklasseTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 1.826 s <<< FAILURE! - in test.java.algorithm.testing.TesterklasseTest
+testeTestIsFalse(test.java.algorithm.testing.TesterklasseTest)  Time elapsed: 0.019 s  <<< FAILURE!
+java.lang.AssertionError: falsches Ergebnis :(
+	at test.java.algorithm.testing.TesterklasseTest.testeTestIsFalse(TesterklasseTest.java:21)
+
